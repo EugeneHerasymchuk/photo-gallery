@@ -1,0 +1,6 @@
+node_modules/*
+client/*
+!.html
+data/*
+mongod
+.md
