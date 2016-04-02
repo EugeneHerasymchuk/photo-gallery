@@ -1,20 +1,16 @@
 {
-  "name": "chat-example",
-  "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "name": "photo-gallery",
+  "version": "0.0.1",
+  "description": "Server side of simple web-page with MongoDB and Express and Socket.io",
   "main": "server.js",
   "repository": "",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "Evhenii Herasymchuk <evhenii.herasymchuk@gmail.com>",
   "dependencies": {
-    "async": "~0.2.8",
     "body-parser": "^1.15.0",
-    "bootstrap": "^4.0.0-alpha.2",
     "express": "~3.2.4",
     "mongoose": "^4.4.4",
-    "multer": "^1.1.0",
     "multiparty": "^4.1.2",
     "socket.io": "~0.9.14",
-    "underscore": "^1.8.3",
-    "util": "^0.10.3"
-  }
+    "underscore": "^1.8.3"
+    }
 }
